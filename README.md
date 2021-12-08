@@ -1,7 +1,7 @@
 # idp4-frontend-developer-guide
 IDP4前端开发者指南。
 
----
+
 
 - [用户登录模块开发指南](用户登录模块开发指南.md)
 - [IT管理员模块开发指南](IT管理员模块开发指南.md)
